@@ -7,8 +7,9 @@ count++
 }
 }
 if(count==2){
-console.log("not prime")
+console.log("yes a prime number")
 }
 else{
-console.log('prime);
+console.log("not a prime number");
 }
+// now i changed the code
